@@ -1,0 +1,167 @@
+ [
+
+      {
+        "id": 1,
+        "segment_name": "Single-family homes",
+        "estate_title": "Modern Apartment in Downtown",
+        "image": "https://i.ibb.co/Wthrgck/house-with-garage-garage.jpg",
+        "description": "Experience the epitome of urban luxury living in our exquisitely crafted modern apartment, boasting breathtaking city vistas. Every detail of this meticulously designed space radiates elegance and sophistication, offering a harmonious blend of contemporary aesthetics and comfort. From the sleek architectural lines to the thoughtfully curated interiors, immerse yourself in a world of refined opulence. Enjoy panoramic views of the vibrant city skyline from expansive windows that flood the rooms with natural light, creating an ambiance of serenity and allure. Elevate your lifestyle and indulge in the ultimate urban retreat, where every moment is a masterpiece of modern living.",
+        "price": "$200,000",
+        "status": "sale",
+        "area": "1200 sq ft",
+        "location": "Downtown",
+        "facilities": ["living room", "swimming pool", "gym"],
+        "additional_info": {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "parking": "1 reserved spot"
+        },
+        "map": [23.7104, 90.4074]
+      },
+      {
+        "id": 2,
+        "segment_name": "Mountain Cabins",
+        "estate_title": "Charming Townhouse in Suburbia",
+        "image": "https://i.ibb.co/KWKLdxq/folio-img6-q1mj9kalesdlng6uugfpqv9og5kb9w2agobtxu1xcg.jpg",
+        "description": "Discover tranquility in our charming townhouse tucked away in a serene suburban enclave. This cozy residence offers a peaceful retreat from the hustle and bustle of city life, nestled amidst lush greenery and tree-lined streets. Step into a welcoming atmosphere where warmth and comfort abound, enveloping you in a sense of home from the moment you arrive. With its inviting facade and intimate interiors, this townhouse is a haven of relaxation and contentment. Enjoy the convenience of suburban living while still being close to urban amenities, creating the perfect balance between seclusion and accessibility for a truly idyllic lifestyle.  ",
+        "price": "$300,000",
+        "status": "sale",
+        "area": "1800 sq ft",
+        "location": "Suburbia",
+        "facilities": ["living room", "backyard garden", "garage"],
+        "additional_info": {
+          "bedrooms": 3,
+          "bathrooms": 2.5,
+          "year_built": 2005
+        },
+        "map": [34.0522, -118.2437]
+      },
+      {
+        "id": 3,
+        "segment_name": "Studio Apartments",
+        "estate_title": "Spacious Family Home with Pool",
+        "image": "https://i.ibb.co/GRK4BxF/folio-img2-1-1536x960.jpg",
+        "description": "Indulge in the epitome of family living with our expansive home designed for entertaining, featuring a luxurious backyard oasis complete with a sparkling pool. This spacious residence offers ample room for gatherings and celebrations, with versatile living areas that seamlessly flow from indoors to outdoors. Whether hosting summer barbecues or tranquil poolside retreats, this home provides the ideal setting for making cherished memories with loved ones. Immerse yourself in the joy of outdoor living, lounging by the poolside or enjoying alfresco dining under the stars. Experience the ultimate in comfort, convenience, and entertainment in this magnificent family abode.",
+        "price": "$500,000",
+        "status": "sale",
+        "area": "2500 sq ft",
+        "location": "Family-Friendly Neighborhood",
+        "facilities": ["living room", "swimming pool", "home theater"],
+        "additional_info": {
+          "bedrooms": 4,
+          "bathrooms": 3.5,
+          "lot_size": "0.25 acres"
+        },
+        "map": [29.7604, -95.3698]
+      },
+      {
+        "id": 4,
+        "segment_name": "Townhomes",
+        "estate_title": "Luxurious Vacation Rental Villa",
+        "image": "https://i.ibb.co/xmrzSd1/featured-properties-01-480x287.jpg",
+        "description": "Embark on an unforgettable luxurious getaway in our exclusive villa, boasting unparalleled ocean vistas that will leave you breathless. Perched majestically overlooking the azure waters, this stunning retreat offers the epitome of opulence and tranquility. With its exquisite design and lavish amenities, every moment spent in this villa is a testament to refined living. Indulge in the ultimate relaxation as you soak in panoramic ocean views from the comfort of your private sanctuary. Whether basking in the sun by the infinity pool or savoring gourmet meals on the expansive terrace, this villa promises an unparalleled experience of luxury and serenity for your dream vacation.",
+        "price": "$1000/night",
+        "status": "rent",
+        "area": "5000 sq ft",
+        "location": "Seaside Resort",
+        "facilities": ["living room", "infinity pool", "private beach access"],
+        "additional_info": {
+          "bedrooms": 6,
+          "bathrooms": 5,
+          "maximum_guests": 12
+        },
+        "map": [33.4484, -112.0740]
+      },
+      {
+        "id": 5,
+        "segment_name": "vacation rentals",
+        "estate_title": "Cozy Studio Apartment in the City Center",
+        "image": "https://i.ibb.co/gzRS4wN/h1-img-2.jpg",
+        "description": "Experience the epitome of urban convenience in our compact studio apartment, strategically situated within close proximity to bustling shops and delectable restaurants. This cozy yet stylish abode offers everything you need for modern city living in a compact and efficient layout. With its prime location, you'll have easy access to an array of amenities, from trendy boutiques to savory dining options, right at your doorstep. Embrace the vibrant energy of the city while enjoying the comfort and convenience of your own private sanctuary. Whether you're a busy professional or a savvy traveler, this studio apartment is the perfect home base for exploring and enjoying all that the city has to offer.",
+        "price": "$150,000",
+        "status": "sale",
+        "area": "600 sq ft",
+        "location": "City Center",
+        "facilities": ["studio room", "kitchenette", "bathroom"],
+        "additional_info": {
+          "floor": "2nd floor",
+          "furnished": true
+        },
+        "map": [23.7104, 90.4074]
+      },
+      {
+        "id": 6,
+        "segment_name": "senior living communities",
+        "estate_title": "Family-Friendly Suburban Home",
+        "image": "https://i.ibb.co/VLTX5zY/03-Open-Houses.jpg",
+        "description": "Discover the epitome of comfort and security in our inviting home nestled within a safe and family-friendly neighborhood, renowned for its excellent schools. This welcoming abode offers a haven of tranquility and warmth, providing the ideal environment for creating lasting memories with your loved ones. With its charming streets and neighborly atmosphere, the community fosters a sense of belonging and peace of mind. Enjoy the convenience of living in close proximity to top-rated schools, ensuring your family's educational needs are met with ease. Embrace the joy of suburban living while relishing in the safety and camaraderie of this cherished neighborhood.",
+        "price": "$400,000",
+        "status": "sale",
+        "area": "2000 sq ft",
+        "location": "Suburban Neighborhood",
+        "facilities": ["living room", "backyard", "garage"],
+        "additional_info": {
+          "bedrooms": 3,
+          "bathrooms": 2.5,
+          "school_district": "XYZ School District"
+        },
+        "map": [ 24.3740, 88.6011]
+      },
+      {
+        "id": 7,
+        "segment_name": "Student housing",
+        "estate_title": "Senior Living Community Apartment",
+        "image": "https://i.ibb.co/6s2hRqg/04-Price-Reductions.jpg",
+        "description": "Experience the pinnacle of safety and comfort in our senior living community, where every detail is tailored to enhance your well-being and peace of mind. Our thoughtfully designed apartments offer a cozy retreat within a secure and supportive environment, providing the perfect blend of independence and assistance. Enjoy the convenience of on-site amenities tailored to your needs, from fitness centers and social spaces to wellness programs and transportation services. Embrace a vibrant lifestyle surrounded by like-minded individuals, fostering connections and friendships that enrich your golden years. Live life to the fullest in our safe and welcoming community, where your happiness and security are our top priorities.",
+        "price": "$1800/month",
+        "status": "rent",
+        "area": "1000 sq ft",
+        "location": "Senior Living Community",
+        "facilities": ["accessible bathroom", "community center", "fitness room"],
+        "additional_info": {
+          "age_requirement": "55+",
+          "utilities_included": ["water", "sewer", "trash"]
+        },
+        "map": [25.08333000, 89.10000000]
+      },
+      {
+        "id": 8,
+        "segment_name": "Apartments",
+        "estate_title": "Student Housing Near University",
+        "image": "https://i.ibb.co/YBJM4Z4/folio-img3-1536x960.jpg",
+        "description": "Discover affordable housing options tailored to students just steps away from the university campus. Our residences provide the perfect balance of comfort, convenience, and affordability, making them ideal for students seeking a supportive environment to thrive academically and socially. Whether you prefer a cozy studio apartment or a shared living arrangement with roommates, our diverse selection of housing options ensures there's something for everyone. Enjoy easy access to campus facilities, libraries, and student amenities, allowing you to focus on your studies without the hassle of a lengthy commute. Elevate your university experience with affordable housing that puts your academic success and well-being first.",
+        "price": "$800/month",
+        "status": "rent",
+        "area": "800 sq ft",
+        "location": "University District",
+        "facilities": ["private bedroom", "shared kitchen", "laundry facilities"],
+        "additional_info": {
+          "distance_to_campus": "0.5 miles",
+          "lease_term": "12 months"
+        },
+        "map": [ 24.3740, 88.6011]
+      },
+      {
+        "id": 9,
+        "segment_name": "Townhouses",
+        "estate_title": "Scenic Mountain Cabin Retreat",
+        "image": "https://i.ibb.co/5RK2jDT/point3d-commercial-imaging-ltd-DLz-YCk-Mkj-BQ-unsplash.jpg",
+        "description": "Escape to serenity in our cozy mountain cabin, nestled amidst the majestic peaks, offering the ultimate tranquil retreat. Embrace the beauty of nature as you unwind in the rustic charm of our secluded abode, where every corner exudes warmth and comfort. From the crackling fireplace to the breathtaking views outside your window, each moment is a reminder of the simple joys of mountain living. Whether you're curling up with a book by the fire or exploring the scenic trails nearby, our cabin provides the perfect sanctuary for a peaceful getaway. Experience the magic of mountain life and create unforgettable memories in this idyllic haven.",
+        "price": "$300/night",
+        "status": "rent",
+        "area": "1500 sq ft",
+        "location": "Mountain Range",
+        "facilities": ["fireplace", "deck", "hiking trails"],
+        "additional_info": {
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "maximum_guests": 4
+        },
+        "map": [33.4484, -112.0740]
+      }
+    ]
+  
+
+
+
+    
